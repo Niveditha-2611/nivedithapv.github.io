@@ -1,0 +1,16 @@
+body {
+    font-family: 'Inter', sans-serif;
+    padding-top: 70px;
+}
+
+.hero {
+    padding: 100px 0;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
